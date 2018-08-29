@@ -36,8 +36,8 @@ int main()
   // TODO: Initialize the pid variable.
 
 
-  //Manual Tuning of paramters:
-  double init_kp = 0.5;
+  //Manual Tuning of parameters:
+  double init_kp = 0.2;
   double init_ki = 0.001;
   double init_kd = 5;
 
